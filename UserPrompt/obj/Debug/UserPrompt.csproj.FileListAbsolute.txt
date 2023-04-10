@@ -1,0 +1,8 @@
+C:\Users\mokgo\Desktop\CSharp\UserPrompt\UserPrompt\bin\Debug\UserPrompt.exe.config
+C:\Users\mokgo\Desktop\CSharp\UserPrompt\UserPrompt\bin\Debug\UserPrompt.exe
+C:\Users\mokgo\Desktop\CSharp\UserPrompt\UserPrompt\bin\Debug\UserPrompt.pdb
+C:\Users\mokgo\Desktop\CSharp\UserPrompt\UserPrompt\obj\Debug\UserPrompt.csproj.AssemblyReference.cache
+C:\Users\mokgo\Desktop\CSharp\UserPrompt\UserPrompt\obj\Debug\UserPrompt.csproj.SuggestedBindingRedirects.cache
+C:\Users\mokgo\Desktop\CSharp\UserPrompt\UserPrompt\obj\Debug\UserPrompt.csproj.CoreCompileInputs.cache
+C:\Users\mokgo\Desktop\CSharp\UserPrompt\UserPrompt\obj\Debug\UserPrompt.exe
+C:\Users\mokgo\Desktop\CSharp\UserPrompt\UserPrompt\obj\Debug\UserPrompt.pdb
